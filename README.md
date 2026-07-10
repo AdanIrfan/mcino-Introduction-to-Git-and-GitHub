@@ -1,12 +1,12 @@
 # Introduction to Git and GitHub
-
+# IBM
 ## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
 Input:
-   p, principal amount
+   p, principal amounts
    t, time period in years
    r, annual rate of interest
 Output
